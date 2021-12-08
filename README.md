@@ -1,0 +1,2 @@
+# printt
+print translated text
